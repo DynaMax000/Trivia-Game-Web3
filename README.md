@@ -39,3 +39,12 @@ Deploy the contract on an Ethereum-compatible blockchain using Remix, Hardhat, o
 
 ## License
 This project is licensed under the MIT License.
+
+
+
+## Trivia Game
+A Solidity-based trivia game where players earn token rewards for correctly answering questions.
+
+## Detailed Description:
+The Trivia Rewards Smart Contract is a blockchain-based game that allows players to test their knowledge and earn token rewards for correct answers. The contract enables an admin to add trivia questions, and players can submit their answers to earn tokens if they are correct. Each correct answer rewards the player with 10 tokens, and players can track their earnings through the contract. The contract ensures fair play by allowing each question to be answered only once per player. Designed for deployment on Ethereum-compatible blockchains, this smart contract provides a fun and engaging way to gamify knowledge while integrating blockchain-based incentives.
+
